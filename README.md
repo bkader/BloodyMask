@@ -5,6 +5,8 @@
 
 Simulates Metro's Gas Mask effects based on your character's actions.
 
+<p align="center"><img src="https://repository-images.githubusercontent.com/461306059/8108f008-8186-488e-8d11-5442090e4e9c" alt="BloodyMask"></p>
+
 ## Feautes
 
 * Cracking glass effect with sound, based on your health.
