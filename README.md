@@ -19,6 +19,6 @@ Simulates Metro's Gas Mask effects based on your character's actions.
 
 ## Show Love & Support
 
-Though it's not required, if you want to show some love and support, PayPal donations are most welcome at **bkader[at]mail.com** or @[Buy Me a Coffee](https://www.buymeacoffee.com/bkader).
+Though it's not required, **PayPal** donations are most welcome at **bkader[at]mail.com**, or via Discord [Donate Bot](https://donatebot.io/checkout/795698054371868743).
 
 _Credits to the [Original AddOn](https://www.curseforge.com/wow/addons/bloody-mask)_
