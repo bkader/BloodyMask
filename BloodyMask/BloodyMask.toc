@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Bloody Mask |cFF99CC01rev|r |cFFFF00001.0.2|r
+## Notes: Simulates Metro's Gas Mask effects based on your character's actions.
+## Author: Resike (Kader Backport)
+## Version: 1.0.2
+## DefaultState: Enabled
+
+BloodyMask.lua
